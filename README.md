@@ -1,6 +1,18 @@
 # hotel-booking-demand-analysis
 
 ## Project Summary
+The project analyzes hotel booking demand to understand 
+customer behavior, booking trends, and cancellation 
+patterns in the hospitality industry.
+
+Through exploratory data analysis(EDA) and visualization
+techniques, we explore factors such as hotel type, market 
+segment, and lead time that influence bookings.
+
+Additionally, machine learning models are applied to 
+predict booking cancellations and help hotels make better 
+data-driven decisions. 
+
 
 ## Team Members
 Kunal Nigewan(Team Leader) - 84aa83861382 
