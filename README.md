@@ -1,5 +1,12 @@
 # Hotel Booking Demand Analysis
 
+## Problem Statement
+The objective of this project is to analyze hotel 
+booking data to understand customer behavior and identify
+key factors influencing booking cancellations. 
+The goal is to help businesses improve revenue management
+and make better data-driven decisions
+
 ## Project Summary
 The project analyzes hotel booking demand to understand 
 customer behavior, booking trends, and cancellation 
