@@ -27,6 +27,7 @@ data-driven decisions.
 - Numpy
 - Matplotlib
 - Seaborn
+- Scikitlearn
 
 ## Key Insights
 - Around 27% of bookings are canceled, indicating a significant business concern.
@@ -37,9 +38,25 @@ data-driven decisions.
 - Peak demand occurs in July and August, showing clear seasonality.
 - Customers with more special requests are less likely to cancel, indicating stronger booking intent.
 
+## Machine Learning
+In this project, machine learning models were used to predict whether a booking will be canceled.
+
+## Models Used
+- Logistic Regression
+- Random Forest Classifier
+
+## Evaluation Metrics
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+
+## Results
+- Logistic Regression achieved ~78% accuracy but had low recall for cancellations.
+- Random Forest achieved ~85% accuracy with better overall performance.
+- Therefore, Random Forest performed better in predicting booking cancellations.
 
 ## Team Members
 - Kunal Nigewan (Team Leader) - 84aa83861382
 - Gunuru Harika – 5004bb81cba4
 - Ambati Devaraj – b4429c4a220b
-- Aditya Kumar Das – 5316549d5696
