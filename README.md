@@ -3,7 +3,7 @@
 ## Note 
 If the notebook preview does not load on Github, please 
 open it in Google Colab using the link below.
-Google Colab : https://githubtocolab.com/Kunal-Nigewan/hotel-booking-demand-analysis/blob/main/hotel_bookings_analysis.ipynb?short_path=cf2b2b1
+Google Colab : https://githubtocolab.com/Kunal-Nigewan/hotel-booking-demand-analysis/blob/main/hotel_bookings_cancellation_analysis.ipynb
 
 ## Problem Statement
 The objective of this project is to analyze hotel 
